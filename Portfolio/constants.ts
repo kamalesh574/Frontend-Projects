@@ -50,35 +50,35 @@ export const CERTIFICATIONS: Certification[] = [
     title: 'Java Programming Masterclass',
     issuer: 'Udemy',
     date: '2025',
-    link: 'components/certificates/java.pdf',
+    link: '/certificates/java.pdf',
     tags: ['Java', 'OOP', 'Collections']
   },
   {
     title: 'Spring Boot',
     issuer: 'Udemy',
     date: '2025',
-    link: 'components/certificates/spring.pdf',
+    link: '/certificates/spring.pdf',
     tags: ['Spring Framework', 'Spring Boot', 'MVC', 'JPA']
   },
   {
     title: 'Python',
     issuer: 'Udemy',
     date: '2024',
-    link: 'components/certificates/python.pdf',
+    link: '/certificates/python.pdf',
     tags: ['Python', 'Pandas', 'NumPy']
   },
   {
     title: 'Full Stack Web Development',
     issuer: 'Udemy',
     date: '2025',
-    link: 'components/certificates/web.pdf',
+    link: '/certificates/web.pdf',
     tags: ['React', 'Node.js','MongoDB', 'Express.js','CSS']
   },
   {
     title: 'JavaScript',
     issuer: 'Udemy',
     date: '2025',
-    link: 'components/certificates/js.pdf',
+    link: '/certificates/js.pdf',
     tags: ['JavaScript', 'ES6']
   },
 ];

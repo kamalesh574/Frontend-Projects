@@ -33,7 +33,7 @@ export const About: React.FC = () => {
                     {/* Inner Circle to mask image */}
                     <div className="w-full h-full rounded-full overflow-hidden border-[6px] border-slate-900 bg-slate-800 relative">
                         <img 
-                            src="components/images/profile.png" 
+                            src="/images/profile.png" 
                             alt={PERSONAL_INFO.name}
                             className="w-full h-full object-cover object-top hover:scale-105 transition-transform duration-500"
                         />
