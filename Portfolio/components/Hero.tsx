@@ -124,7 +124,7 @@ export const Hero: React.FC = () => {
 
             {/* Buttons */}
             <div className="mt-10 flex flex-col sm:flex-row items-center justify-center gap-6 w-full sm:w-auto">
-              <Button href="components/certificates/Kamalesh P Resume (1) (2).pdf" target="_blank" variant="primary" className="w-full sm:w-auto group relative overflow-hidden">
+              <Button href="/certificates/Kamalesh P Resume (1) (2).pdf" target="_blank" variant="primary" className="w-full sm:w-auto group relative overflow-hidden">
                 <span className="relative z-10 flex items-center">
                     <Download className="mr-2 h-5 w-5 group-hover:animate-bounce" />
                     Download Resume
