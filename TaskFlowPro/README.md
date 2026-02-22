@@ -344,6 +344,6 @@ MIT License
 👨‍💻 Author
 
 Kamalesh P
-Frontend Engineer | React + TypeScript Developer
+Aspiring Java Developer | React + TypeScript Developer
 
 ---
