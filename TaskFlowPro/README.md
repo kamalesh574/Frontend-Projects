@@ -292,37 +292,46 @@ npm run dev
 
 ---
 
-🛠 Future Upgrades
 
--Planned enhancements:
--Backend integration (Node.js / Spring Boot)
--User authentication
--Cloud persistence
--Real-time collaboration
--AI task prioritization
--Calendar integration
--Pomodoro timer mode
--Team workspaces
--Export to CSV/PDF
--PWA support
--Offline-first sync
--Role-based permissions
--Notification center
--Activity logs
+
+# 🛠 Future Upgrades
+
+###  Planned Enhancements
+
+- 🔗 Backend integration (Node.js / Spring Boot)
+- 🔐 User authentication & authorization
+- ☁️ Cloud-based data persistence
+- 🤝 Real-time collaboration (WebSockets)
+- 🧠 AI-powered task prioritization
+- 📅 Calendar & scheduling integration
+- ⏱ Pomodoro focus timer mode
+- 👥 Team workspaces & multi-user boards
+- 📤 Export tasks to CSV / PDF
+- 📱 Progressive Web App (PWA) support
+- 🌐 Offline-first synchronization
+- 🛡 Role-based access control
+- 🔔 Notification center
+- 📜 Activity logs & audit history
+
+TaskFlow Pro is architected for scalability, making future backend and enterprise integrations seamless.
 
 ---
 
-🎯 Why This Project Stands Out
+# 🎯 Why This Project Stands Out
 
--TaskFlow Pro demonstrates:
--Advanced React architecture
--Scalable frontend system design
--Complex state management without Redux
--Drag-and-drop optimization
--Strict TypeScript discipline
--SaaS-level polish
--This is not just a Kanban clone.
--This is a frontend engineering showcase project.
+### 💡 TaskFlow Pro Demonstrates:
+
+- 🏗 Advanced React architecture
+- 📦 Scalable frontend system design
+- 🧠 Complex state management without Redux
+- 🎯 Optimized drag-and-drop implementation
+- 🔒 Strict TypeScript discipline (no `any`)
+- ✨ SaaS-level UI/UX polish
+- ⚡ Performance-focused engineering practices
+
+---
+
+
 
 ---
 
