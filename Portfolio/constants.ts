@@ -84,7 +84,7 @@ export const CERTIFICATIONS: Certification[] = [
 ];
 
 export const PROJECTS: Project[] = [
-  // --- JAVA BASED (The "Heavy Lifting" Backend Projects) ---
+  // --- JAVA BASED FullStack Projects  (The "Heavy Lifting" Backend Projects) ---
   {
     title: "ContactPro (Full Stack Contact Management System)",
     description:
@@ -103,32 +103,32 @@ export const PROJECTS: Project[] = [
     link: "https://github.com/kamalesh574/FullStack-Projects-JRS-Edition",
     demoLink: "https://contact-manager-wheat-seven.vercel.app",
   },
-  {
-    title: "Edu-Nexus (LMS Platform)",
-    description:
-      "A comprehensive Learning Management System with strict Role-Based Access Control (RBAC). Features secure video streaming, progress tracking, and instructor dashboards.",
-    techStack: ["Java", "Spring Security", "JWT", "React", "MongoDB"],
-    link: "https://github.com/kamalesh574/Edu-Nexus-LMS",
-    demoLink: "https://edu-nexus-demo.com",
-  },
+ {
+  title: "Food-Bridge Marketplace",
+  description:
+    "A frontend-only food donation marketplace connecting restaurants with surplus food to NGOs in need. Features role-based dashboards, live expiry countdown timers, dynamic filtering, request tracking workflow, and impact monitoring — built with scalable React architecture and strict TypeScript.",
+  techStack: ["React", "TypeScript", "Vite", "TailwindCSS", "React Router", "Context API", "useReducer"],
+  link: "https://github.com/kamalesh574/Food-Bridge-Marketplace",
+  demoLink: "https://kamal574-foodbridge.vercel.app/",
+},
 
   // --- FRONTEND BASED (The "Visual & Logic" Projects) ---
   {
-    title: "Algo-Visualizer",
-    description:
-      "Interactive dashboard visualizing complex sorting and pathfinding algorithms (BFS, Dijkstra). Features dynamic speed control, step-by-step execution, and complexity analysis.",
-    techStack: ["React", "TypeScript", "Algorithms", "CSS Animation"],
-    link: "https://github.com/kamalesh574/Frontend-UI-Collection/tree/main/01-Algo-Visualizer",
-    demoLink: "https://algo-visualizer.com",
-  },
+  title: "Interactive Learning Roadmap Generator",
+  description:
+    "A SaaS-style frontend application that generates structured, adaptive learning roadmaps based on skill, difficulty, and duration. Features interactive timeline visualization, progress tracking dashboard, analytics insights, JSON export, and persistent localStorage state — built with strict TypeScript and scalable React architecture.",
+  techStack: ["React", "TypeScript", "Vite", "TailwindCSS", "React Router", "Context API", "useReducer", "Framer Motion", "Recharts"],
+  link: "https://github.com/kamalesh574/Interactive-Learning-Roadmap-Generator",
+  demoLink: "https://kamal574-roadmap.vercel.app/",
+},
   {
-    title: "Food-Bridge Marketplace",
-    description:
-      'A "Zero-Hunger" marketplace connecting restaurants with NGOs. Handles real-time inventory tracking, expiration alerts, and distinct dashboards for donors and receivers.',
-    techStack: ["React", "Context API", "Tailwind CSS", "Moment.js"],
-    link: "https://github.com/kamalesh574/Frontend-UI-Collection/tree/main/02-Food-Bridge",
-    demoLink: "https://food-bridge.com",
-  },
+  title: "TaskFlow Pro",
+  description:
+    "A premium Kanban-based productivity and workflow management system featuring multi-board support, advanced drag-and-drop interactions, priority management, analytics dashboard, and persistent localStorage state — built with scalable React architecture and strict TypeScript.",
+  techStack: ["React", "TypeScript", "Vite", "TailwindCSS", "React Router", "Context API", "useReducer", "@dnd-kit/core", "Framer Motion", "Recharts"],
+  link: "https://github.com/kamalesh574/TaskFlow-Pro",
+  demoLink: "https://kamal574-taskflowpro.vercel.app/",
+},
 ];
 
 export const PROFILE_URLS = {
