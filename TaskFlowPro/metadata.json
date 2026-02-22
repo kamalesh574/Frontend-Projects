@@ -1,0 +1,5 @@
+{
+  "name": "Advanced Drag & Drop Kanban Board",
+  "description": "A professional, production-grade SaaS-style Kanban board with drag-and-drop, analytics, and local persistence.",
+  "requestFramePermissions": []
+}
