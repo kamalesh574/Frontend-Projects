@@ -126,6 +126,7 @@ Fully frontend architecture.
 
 # 🧠 Architecture Overview
 
+```
 src/
 ├── app/
 ├── components/
@@ -141,6 +142,7 @@ src/
 ├── pages/
 ├── assets/
 
+```
 
 ### Architecture Principles
 
@@ -288,6 +290,7 @@ npm install
 # Run development server
 npm run dev
 
+---
 
 🛠 Future Upgrades
 
@@ -307,6 +310,8 @@ npm run dev
 -Notification center
 -Activity logs
 
+---
+
 🎯 Why This Project Stands Out
 
 -TaskFlow Pro demonstrates:
@@ -319,11 +324,17 @@ npm run dev
 -This is not just a Kanban clone.
 -This is a frontend engineering showcase project.
 
+---
+
 📄 License
 
 MIT License
+
+---
 
 👨‍💻 Author
 
 Kamalesh P
 Frontend Engineer | React + TypeScript Developer
+
+---
